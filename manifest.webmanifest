@@ -1,0 +1,26 @@
+{
+  "name": "e-Portfolio SPPPA 2026 – PERKESO Dungun",
+  "short_name": "SPPPA 2026",
+  "description": "e-Portfolio Penilaian Prestasi Kumpulan Eksekutif PERKESO Dungun 2026",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#031c40",
+  "theme_color": "#05295c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
